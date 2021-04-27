@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dbapp:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-04-27T04:37:56.784332034Z"
+    description: This is diabetes prediction app
+    digest: ca3bf1ee220baf6119683ec4b16a76d6bde6ce95865f795288f4e83172e6e752
+    name: dbapp
+    urls:
+    - dbapp-0.1.tgz
+    version: "0.1"
+generated: "2021-04-27T04:37:56.782607331Z"
